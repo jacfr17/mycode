@@ -1,6 +1,6 @@
 # mycode (Learning Python)
 
-As a beginner, my goal is to learn Python with the hope of implementing Python with my work.
+As a beginner, my goal is to learn Python with the hope of implementing Python with my work tasks.
 
 ## Getting Started
 
