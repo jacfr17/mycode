@@ -1,9 +1,9 @@
 #!/usr/bin/env python3
 """Alta3 Research | RZFeeser
-   List - making selections from complex lists"""
+   List - using the extend vs append method"""
 
 def main():
-
+    
     # create a list called list1
     list1 = ["cisco_nxos", "arista_eos", "cisco_ios"]
     
@@ -33,7 +33,7 @@ def main():
     
     # display the list of IP addresses
     print(list1[4])
-    
+
     # display the first item in the list (0th item) - first IP address
     print(list1[4][0])
 
